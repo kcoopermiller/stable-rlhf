@@ -1,3 +1,5 @@
+Modified version of [StackLLaMA](https://huggingface.co/blog/stackllama) to work with StabilityAI's StableLM 3B Model. 
+
 ## Training Process
 
 1. Supervised fine-tuning of the base stableLM-3b model:
